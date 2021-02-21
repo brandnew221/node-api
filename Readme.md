@@ -7,7 +7,7 @@
 download code
 
 ```bash
-cd testbtc
+cd Nodejs-BitCoin-API
 ```
 
 ```bash
